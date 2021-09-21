@@ -1,0 +1,23 @@
+
+.container{
+    text-align: center;
+    background-color: grey;
+}
+table{
+    margin:  auto;
+}
+input{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.btn{
+    font-size: 20px;
+    width: 75px;
+    height: 50px;
+    font-weight: bold;
+    border: 2px solid red;
+    border-radius: 30%;
+    background-color: rgb(100, 224, 100);
+    box-shadow: cadetblue 2px 2px 2px;
+}
